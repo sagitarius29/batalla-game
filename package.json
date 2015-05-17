@@ -1,0 +1,26 @@
+{
+  "name": "batalla-game",
+  "version": "0.1.0",
+  "description": "Batalla de xD!",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "socket.io": "~1.0.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagitarius29/batalla-game.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
